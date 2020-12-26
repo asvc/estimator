@@ -3,7 +3,7 @@ Panel for Nuke that allows you to quickly estimate size of all sources in the sc
 Also can be used as imported module to provide same functionality for another tool.
 
 ## Installation
-1. `cd ~/.nuke && git clone https://github.com/artaman/estimator.git`  
+1. `cd ~/.nuke && git clone https://github.com/savchenko/estimator.git`  
 2. Open `~/.nuke/init.py` with your favourite editor  
 3. Add the following code:  
 
